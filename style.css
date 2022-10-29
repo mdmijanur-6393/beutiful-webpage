@@ -14,13 +14,13 @@
 	}
 
 	.background {
-		background: black;
+		background: rgb(110, 26, 26);
 		background-blend-mode: darken;
 		background-size: cover;
 	}
 
 	.nav-list {
-		width: 70%;
+		width: 80%;
 		display: flex;
 		align-items: center;
 	}
@@ -43,15 +43,15 @@
 
 	.nav-list li a {
 		text-decoration: none;
-		color: white;
+		color: rgb(195, 16, 16);
 	}
 
 	.nav-list li a:hover {
-		color: grey;
+		color: rgb(40, 20, 20);
 	}
 
 	.rightnav {
-		width: 30%;
+		width: 35%;
 		text-align: right;
 	}
 
@@ -68,7 +68,7 @@
 	}
 
 	.secondsection {
-		background-color: blue;
+		background-color: rgb(46, 212, 82);
 		height: 400px;
 	}
 
@@ -160,7 +160,7 @@
 		font-family: 'Ubuntu', sans-serif;
 		display: flex;
 		justify-content: center;
-		color: white;
+		color: rgb(81, 14, 14);
 	}
 </style>
 
