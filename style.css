@@ -14,7 +14,7 @@
 	}
 
 	.background {
-		background: rgb(110, 26, 26);
+		background: rgb(19, 216, 101);
 		background-blend-mode: darken;
 		background-size: cover;
 	}
@@ -43,7 +43,7 @@
 
 	.nav-list li a {
 		text-decoration: none;
-		color: rgb(211, 145, 145);
+		color: rgb(66, 27, 219);
 	}
 
 	.nav-list li a:hover {
@@ -63,7 +63,7 @@
 	}
 
 	.firstsection {
-		background-color: green;
+		background-color: rgb(21, 92, 21);
 		height: 400px;
 	}
 
